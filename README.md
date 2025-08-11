@@ -1,1 +1,3 @@
-The file size was too big so i added code like this.
+Managed to upload the whole project
+https://github.com/Kozalog/The-beacon-commandment
+
